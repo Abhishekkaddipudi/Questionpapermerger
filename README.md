@@ -16,8 +16,10 @@ This is a FastAPI-based web service that processes PDF files containing question
 
 ### **1. Clone the Repository**
 ```sh
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/Abhishekkaddipudi/Questionpapermerger
+```
+```sh
+cd Questionpapermerger
 ```
 
 ### **2. Create and Activate a Virtual Environment**
